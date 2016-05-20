@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.17)  20 MAY 2016 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.17)  20 MAY 2016 11:29
 entering extended mode
 **./earnest_resume.tex
 (earnest_resume.tex
@@ -91,24 +91,29 @@ l.20    \hline
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-[1
+<1.jpg, id=1, 212.29312pt x 280.04625pt>
+File: 1.jpg Graphic file (type jpg)
+ <use 1.jpg>
+Package pdftex.def Info: 1.jpg used on input line 34.
+(pdftex.def)             Requested size: 90.33783pt x 119.16977pt.
+ [1
 
-{C:/Users/acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(earnest_resume.aux) ) 
+{C:/Users/acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./1.jpg>] (e
+arnest_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1100 strings out of 493634
- 14448 string characters out of 3141317
+ 1107 strings out of 493634
+ 14500 string characters out of 3141317
  68407 words of memory out of 3000000
- 4538 multiletter control sequences out of 15000+200000
+ 4542 multiletter control sequences out of 15000+200000
  3938 words of font info for 15 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,4n,19p,311b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb>
-Output written on earnest_resume.pdf (1 page, 30082 bytes).
+ 27i,5n,19p,311b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr12.pfb>
+Output written on earnest_resume.pdf (1 page, 61535 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
+ 15 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
