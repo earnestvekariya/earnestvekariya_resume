@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.17)  20 MAY 2016 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.17)  20 MAY 2016 11:27
 entering extended mode
 **./earnest_resume.tex
 (earnest_resume.tex
@@ -98,7 +98,7 @@ an alignment. Proceed, and I'll ignore this case.
 Here is how much of TeX's memory you used:
  1100 strings out of 493634
  14448 string characters out of 3141317
- 67407 words of memory out of 3000000
+ 68407 words of memory out of 3000000
  4538 multiletter control sequences out of 15000+200000
  3938 words of font info for 15 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -106,7 +106,7 @@ Here is how much of TeX's memory you used:
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmr12.pfb>
-Output written on earnest_resume.pdf (1 page, 18410 bytes).
+Output written on earnest_resume.pdf (1 page, 30082 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
